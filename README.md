@@ -1,7 +1,7 @@
 # ETL Data Pipeline –
 
 ##  Objective
-This project implements an automated **ETL (Extract, Transform, Load) pipeline** using Python, Pandas, and Scikit-learn. It is part of 
+This project implements an automated **ETL (Extract, Transform, Load) pipeline** using Python, Pandas, and Scikit-learn.
 
 ---
 
